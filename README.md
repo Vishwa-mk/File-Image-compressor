@@ -10,11 +10,16 @@ This project is a full-stack web application that allows users to compress text-
 🌍 Communication: REST API with CORS enabled
 
  **Features:**
-✅ Upload and compress .txt, .csv, or similar plain-text files
-✅ Download compressed output as a .huff file
-✅ Huffman coding-based logic for effective compression
-✅ React frontend with clean UX
-✅ Flask backend with a single compression endpoint
+✅ Upload and compress .txt, .csv, or similar plain-text files.
+
+✅ Download compressed output as a .huff file.
+
+✅ Huffman coding-based logic for effective compression.
+
+✅ React frontend with clean UX.
+
+✅ Flask backend with a single compression endpoint.
+
 
 project-root/
 ├── backend/
