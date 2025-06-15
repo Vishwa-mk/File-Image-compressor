@@ -18,12 +18,19 @@ This project is a full-stack web application that allows users to compress text-
 
 project-root/
 ├── backend/
+
 │   └── app.py              # Flask API with Huffman compression
+
 ├── frontend/
+
 │   ├── index.html
+
 │   ├── package.json
+
 │   └── src/
+
 │       └── App.jsx         # Main React component
+
 └── README.md
 
 **Setup and Run Flask Backend**: 
